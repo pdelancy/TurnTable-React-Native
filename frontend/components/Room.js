@@ -26,7 +26,7 @@ const url = process.env.BACKEND_URI; // Backend link
 
 class RoomScreen extends React.Component {
     static navigationOptions = {
-        title: 'Home'
+        title: 'Room'
     };
     render() {
         return (
